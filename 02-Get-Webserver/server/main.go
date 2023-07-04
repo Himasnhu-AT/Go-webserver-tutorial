@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Go-WebServer-Tutorial/02-Get-Webserver/countryCapitals"
+	"GO-WebServer-Tutorial/02-Get-Webserver/countryCapitals"
 	"fmt"
 	"net/http"
 	"strings"
